@@ -1,7 +1,7 @@
-interface WeatherData {
-  city: string;
-  temperature: number;
-  humidity: number;
-  wind: number;
-  rain: number;
+interface ChocolateData {
+  chocolateBar: string;
+  calories: number;
+  sugar: number;
+  price: number;
+  rating: number;
 }
